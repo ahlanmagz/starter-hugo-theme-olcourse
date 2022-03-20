@@ -9,7 +9,7 @@ authors: []
 image:
   filename: cintapertama.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: test
 ---
 **YETSDSSSST**
